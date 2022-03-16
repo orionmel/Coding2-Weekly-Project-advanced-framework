@@ -9,6 +9,10 @@ Do some transformation on the image dataset that isn't included in the above doc
 Used numpy to do this transformation.<br>
 Collect and process your own dataset instead of the one provided.
 
+My final outcome link: <https://colab.research.google.com/drive/1bGG8PHAU7Bmu_6yb1IV26sGhyvzuVZq4>
+
+
+
 
 
 
