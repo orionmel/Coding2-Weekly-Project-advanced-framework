@@ -7,6 +7,7 @@ My homework detail:
 · Try to get your two types of boids to pay attention to each other. <br>
 · Keep them as two separate flocks, but make it so that each group stays away from each other. <br>
 
+![](https://github.com/orionmel/Coding2-Weekly-Project-advanced-framework/blob/main/%E2%9D%A4%EF%B8%8Fweek3_boids/final_outcome.jpg)
 ----------
 Week3 Final outcome video : <https://vimeo.com/686655665>
 ---------
