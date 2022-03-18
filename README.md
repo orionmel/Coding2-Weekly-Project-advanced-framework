@@ -49,5 +49,6 @@ Github link:<https://github.com/orionmel/Coding2-Weekly-Project-advanced-framewo
 
 ### week 8.2 numpy
 
-![](https://github.com/orionmel/Coding2-Weekly-Project-advanced-framework/blob/main/%E2%9D%A4%EF%B8%8Fweek8%20tensorflow%20%26%20numpy/week8_numpy/image3.png)
+https://github.com/orionmel/Coding2-Weekly-Project-advanced-framework/blob/main/%E2%9D%A4%EF%B8%8Fweek8%20tensorflow%20%26%20numpy/week8_numpy/Week8%20Numpy%203DPlots.ipynb
 
+![](https://github.com/orionmel/Coding2-Weekly-Project-advanced-framework/blob/main/%E2%9D%A4%EF%B8%8Fweek8%20tensorflow%20%26%20numpy/week8_numpy/image3.png)
