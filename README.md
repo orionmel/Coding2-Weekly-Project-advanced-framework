@@ -27,6 +27,7 @@ Github link:<https://github.com/orionmel/Coding2-Weekly-Project-advanced-framewo
 
 ### week 5.1.Exercise - The Python Challenge!
 Solve the first 7 parts of the Python Challenge
+https://github.com/orionmel/Coding2-Weekly-Project-advanced-framework/blob/main/%E2%9D%A4%EF%B8%8Fweek5_python%20puzzle/week5.1_python_challenge_0-7/Week5_Python%20challenge.ipynb
 
 ### week 5.2.The Python Puzzle Game
 My final outcome video : <https://vimeo.com/686660684>
